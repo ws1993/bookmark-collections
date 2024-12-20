@@ -1,3 +1,4 @@
+- [别被"5分钟写个App"误导：Cursor深度实践](https://mp.weixin.qq.com/s/JVb7-4a2XOFhfeJusaxvFg)
 - [11.11冠军单品极空间Z4Pro，10+种玩法推荐](https://mp.weixin.qq.com/s/DRlM5oFFnICopoQshPkzOg)
 - [前端vue页面实时播放海康威视监控视频 3种方法 - 不爱贞子爱爽子 - 博客园](https://www.cnblogs.com/shuangzikun/p/17969786/fengtao_rtsp)
 - [使用mapbox-gl-js与turf.js绘制等值线图什么是等值线 等值线是制图对象某一数量指标值相等的各点连成的平滑 - 掘金](https://juejin.cn/post/7044797998177452040)
