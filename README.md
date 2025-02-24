@@ -1,3 +1,4 @@
+- [Deepseek 教我的法则：不是要「会提问」，而是要「早动手」 - 少数派](https://sspai.com/post/96150)
 - [【一文读懂】智慧水务中的总体架构、功能架构、网络架构、技术架构](https://mp.weixin.qq.com/s/a9AEv0U7KkBa2STdFrgnLg)
 - [时序数据库 InfluxDB、TimeScaleDB和TDengine 对比 - 龙凌云端 - 博客园](https://www.cnblogs.com/miracle-luna/p/17973749)
 - [潮流周刊第208期 - 配新电脑](https://weekly.tw93.fun/posts/208-%E9%85%8D%E6%96%B0%E7%94%B5%E8%84%91/?from=https://www.fre321.com)
