@@ -1,3 +1,4 @@
+- [Replication（下）：事务，一致性与共识](https://tech.meituan.com/2022/08/25/replication-in-meituan-02.html) #数据库#事务#一致性
 - [Deepseek 教我的法则：不是要「会提问」，而是要「早动手」 - 少数派](https://sspai.com/post/96150)
 - [【一文读懂】智慧水务中的总体架构、功能架构、网络架构、技术架构](https://mp.weixin.qq.com/s/a9AEv0U7KkBa2STdFrgnLg)
 - [时序数据库 InfluxDB、TimeScaleDB和TDengine 对比 - 龙凌云端 - 博客园](https://www.cnblogs.com/miracle-luna/p/17973749)
