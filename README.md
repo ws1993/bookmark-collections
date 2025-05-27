@@ -1,7 +1,6 @@
 - [从AIGC到MCP：普通人需要了解的AI新进展及其技术本质 - 少数派](https://sspai.com/post/99102) #ai
 - [查询性能： TDengine 最高达到了 InfluxDB 的 37 倍、 TimescaleDB 的 28.6 倍 - 涛思数据TDengine - 博客园](https://www.cnblogs.com/taosdata/p/17199193.html) #时序数据库
 - [DevOps Performance: InfluxDB and TimescaleDB vs. TDengine](https://tdengine.com/devops-performance-comparison-influxdb-and-timescaledb-vs-tdengine/) #时序数据库
-- [DevOps Performance: InfluxDB and TimescaleDB vs. TDengine](https://tdengine.com/devops-performance-comparison-influxdb-and-timescaledb-vs-tdengine/) #时序数据库
 - [浅谈 AI 时代下的技术自学 - 少数派](https://sspai.com/post/97972) #学习#ai
 - [如何满足小众的录屏需求？自己配置 FFmpeg 解决问题 - 少数派](https://sspai.com/post/76637)
 - [时序数据库TimescaleDB是站在了PG的肩膀上？扒了扒了对于TimescaleDB来说，对于性能上可能处于下风，如 - 掘金](https://juejin.cn/post/7338397590008332327) #时序数据库#timescaledb
