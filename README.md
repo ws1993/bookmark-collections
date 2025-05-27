@@ -1,3 +1,4 @@
+- [查询性能： TDengine 最高达到了 InfluxDB 的 37 倍、 TimescaleDB 的 28.6 倍 - 涛思数据TDengine - 博客园](https://www.cnblogs.com/taosdata/p/17199193.html) #时序数据库
 - [DevOps Performance: InfluxDB and TimescaleDB vs. TDengine](https://tdengine.com/devops-performance-comparison-influxdb-and-timescaledb-vs-tdengine/) #时序数据库
 - [DevOps Performance: InfluxDB and TimescaleDB vs. TDengine](https://tdengine.com/devops-performance-comparison-influxdb-and-timescaledb-vs-tdengine/) #时序数据库
 - [浅谈 AI 时代下的技术自学 - 少数派](https://sspai.com/post/97972) #学习#ai
