@@ -1,4 +1,5 @@
 - [DevOps Performance: InfluxDB and TimescaleDB vs. TDengine](https://tdengine.com/devops-performance-comparison-influxdb-and-timescaledb-vs-tdengine/) #时序数据库
+- [DevOps Performance: InfluxDB and TimescaleDB vs. TDengine](https://tdengine.com/devops-performance-comparison-influxdb-and-timescaledb-vs-tdengine/) #时序数据库
 - [浅谈 AI 时代下的技术自学 - 少数派](https://sspai.com/post/97972) #学习#ai
 - [如何满足小众的录屏需求？自己配置 FFmpeg 解决问题 - 少数派](https://sspai.com/post/76637)
 - [时序数据库TimescaleDB是站在了PG的肩膀上？扒了扒了对于TimescaleDB来说，对于性能上可能处于下风，如 - 掘金](https://juejin.cn/post/7338397590008332327) #时序数据库#timescaledb
