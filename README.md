@@ -1,3 +1,4 @@
+- [Reinvent the Wheel | Matthias Endler](https://endler.dev/2025/reinvent-the-wheel/) #方法论
 - [AI: Accelerated Incompetence](https://www.slater.dev/accelerated-incompetence/) #ai
 - [卖 AI 图，从开单到金盆洗手 - 少数派](https://sspai.com/post/99156) #ai
 - [从AIGC到MCP：普通人需要了解的AI新进展及其技术本质 - 少数派](https://sspai.com/post/99102) #ai
