@@ -1,3 +1,4 @@
+- [假设 AI 未来真的能在写代码和系统设计上超过人类，那还有必要学习编程和系统设计吗？](https://baoyu.io/blog/ai-surpass-humans-coding-necessary) #ai
 - [Reinvent the Wheel | Matthias Endler](https://endler.dev/2025/reinvent-the-wheel/) #方法论
 - [AI: Accelerated Incompetence](https://www.slater.dev/accelerated-incompetence/) #ai
 - [卖 AI 图，从开单到金盆洗手 - 少数派](https://sspai.com/post/99156) #ai
